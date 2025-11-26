@@ -29,6 +29,10 @@ The system fuses both using a *neural network* built in PyTorch.
 - Neural network with dropout + batch normalization
 
 ---
+## Link to our website
+https://b50448c5e6e6d6be06.gradio.live/
+
+---
 
 ##  Installation
 
@@ -53,5 +57,5 @@ text-style-classifier/
 ├── notebooks/
 ├── plots/
 └── data/
-Link to our website:
-https://b50448c5e6e6d6be06.gradio.live/
+
+
