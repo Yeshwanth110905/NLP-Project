@@ -13,7 +13,7 @@ The system fuses both using a *neural network* built in PyTorch.
 
 ---
 
-## 🚀 What It Can Do
+## What It Can Do
 - Predict the writing style of any text
 - Analyze both structure + meaning for better accuracy
 - Provide a *Gradio web app* for easy use
