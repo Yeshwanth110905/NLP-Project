@@ -30,7 +30,7 @@ The system fuses both using a *neural network* built in PyTorch.
 
 ---
 ## Link to our website
-https://b50448c5e6e6d6be06.gradio.live/
+https://4d9d6c8c7d60efb0d2.gradio.live/
 
 ---
 
